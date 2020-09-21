@@ -17,6 +17,8 @@
 
 ## Markdown
 
+- Syntaxe et structure du Markdown
+
 ## Les outils du développeur
 
 - les commandes terminal
