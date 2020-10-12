@@ -14,6 +14,7 @@
 - Différence entre block et inline
 - Box-Model
 - FlexBox
+- Les positions
 
 ## Markdown
 
