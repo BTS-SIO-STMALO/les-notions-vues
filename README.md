@@ -13,8 +13,11 @@
 - Syntaxe et structure CSS
 - Différence entre block et inline
 - Box-Model
+- la propriété display
 - FlexBox
 - Les positions
+- les pseudo-éléments et les pseudo-classes
+- les mediaqueries
 
 ## Markdown
 
@@ -24,6 +27,8 @@
 
 - les commandes terminal
 - VSC
+- les extensions VSC
+- Emmet
 - Dev Chrome Tools
 
 ## Git & Github
