@@ -1,5 +1,13 @@
 # les Notions Vues
 
+## PHP
+- les variables
+- les boucles 
+- les conditions
+- l'inclusion de fichier
+- le templating
+- les formulaires avec GET et POST
+
 ## HTML & CSS
 
 ### HTML
