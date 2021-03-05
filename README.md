@@ -7,6 +7,7 @@
 - l'inclusion de fichier
 - le templating
 - les formulaires avec GET et POST
+- la programmation orientée objet
 
 ## HTML & CSS
 
