@@ -4,10 +4,13 @@
 - les variables
 - les boucles 
 - les conditions
+- les fonctions
 - l'inclusion de fichier
 - le templating
 - les formulaires avec GET et POST
 - la programmation orientée objet
+- PDO = interfaçage avec une base de données
+- les sessions et l'authentification via php
 
 ## HTML & CSS
 
